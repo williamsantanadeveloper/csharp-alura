@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\bin\Debug\net8.0\oo.exe
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\bin\Debug\net8.0\oo.deps.json
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\bin\Debug\net8.0\oo.runtimeconfig.json
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\bin\Debug\net8.0\oo.dll
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\bin\Debug\net8.0\oo.pdb
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\obj\Debug\net8.0\oo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\obj\Debug\net8.0\oo.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\obj\Debug\net8.0\oo.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\obj\Debug\net8.0\oo.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\obj\Debug\net8.0\oo.dll
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\obj\Debug\net8.0\refint\oo.dll
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\obj\Debug\net8.0\oo.pdb
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\obj\Debug\net8.0\oo.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documentos\Estudos\csharp-alura\oo\obj\Debug\net8.0\ref\oo.dll
